@@ -26,4 +26,4 @@ describing their spending and activity on platform.
 <img width="374" height="164" alt="Screenshot 2026-07-24 231712" src="https://github.com/user-attachments/assets/d7754a24-e66e-4ddd-91a0-95ad43c1a9c4" />
 5. Customer Feedback & Constant
 
-<img width="374" height="164" alt="Screenshot 2026-07-24 231712" src="https://github.com/user-attachments/assets/d6c25462-f3d2-4653-b0f0-aec0d8c4f480" />
+<img width="410" height="88" alt="Screenshot 2026-07-24 231806" src="https://github.com/user-attachments/assets/9e736337-f04a-4048-8fb6-4e926e8786d9" />
